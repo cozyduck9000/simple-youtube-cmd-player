@@ -43,7 +43,7 @@ Clone the repository:
 git clone https://github.com/YOUR_USERNAME/cmd-youtube-player.git
 cd cmd-youtube-player
 ```
----
+
 ## Platform
 
 - OS: Windows
