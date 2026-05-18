@@ -14,9 +14,9 @@ Search videos, queue playback, and enjoy autoplay recommendations directly from 
 - Recommended videos based on current playback
 - Simple terminal interface (no GUI)
 
-<img width="399" height="224" alt="image" src="https://github.com/user-attachments/assets/964a000a-90ac-4759-ab57-4b4582475aa7" />
-<img width="660" height="322" alt="image" src="https://github.com/user-attachments/assets/e5a760fe-a24c-437d-86c6-ab79efd5d194" />
-<img width="279" height="186" alt="image" src="https://github.com/user-attachments/assets/a0b1eb2f-de3a-4fa3-a583-d67a2023b4ab" />
+<img width="285" height="149" alt="image" src="https://github.com/user-attachments/assets/5c149503-97ae-4265-acbe-c7bf4fe8a3e5" />
+<img width="474" height="216" alt="image" src="https://github.com/user-attachments/assets/a3179b3f-68c2-4669-86e0-477f93c20e5b" />
+<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/8d5d910b-03b7-417a-84a2-423fabcad5ad" />
 
 
 
