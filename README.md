@@ -1,6 +1,7 @@
 # CMD YouTube Player
 
 A lightweight terminal-based YouTube player using VLC and yt-dlp for Windows. Runs on slow machines.
+
 Search videos, queue playback, and enjoy autoplay recommendations directly from your command line.
 
 ---
