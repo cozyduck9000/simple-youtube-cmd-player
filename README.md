@@ -42,3 +42,19 @@ Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/cmd-youtube-player.git
 cd cmd-youtube-player
+```
+---
+## Platform
+
+- OS: Windows
+- Architecture: x64
+- Language: Python
+
+## Requirements
+
+- VLC Media Player installed
+- Windows 10/11 recommended
+
+## Build
+
+Packaged using PyInstaller
